@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+}
+
+.registration-form {
+    width: 800px;
+    height: 600px;
+    margin: 10px auto;
+    box-sizing: border-box;
+    background:#eee;
+    font-size: 30px;
+    color: black;
+    text-decoration: solid underline;
+    box-shadow: 10%;
+    padding: 20px;
+
+}
+.valid-feedback{
+    font-size: 20px;
+}
+.invalid-feedback{
+    font-size: 20px;
+}
+
+.btn {
+    text-align: center;
+    font-size: 30px;
+    color: burlywood;
+
+}
+
